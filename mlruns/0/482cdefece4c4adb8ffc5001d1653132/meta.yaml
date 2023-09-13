@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML%20Projects/Wine_Qaulity_MLflow/Wine_quality-MLfow-Dagshub-AWS-/mlruns/0/482cdefece4c4adb8ffc5001d1653132/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 482cdefece4c4adb8ffc5001d1653132
+run_name: delicate-doe-458
+run_uuid: 482cdefece4c4adb8ffc5001d1653132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694602953391
+status: 1
+tags: []
+user_id: Lenovo
